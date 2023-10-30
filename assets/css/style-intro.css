@@ -1,0 +1,19 @@
+/* Selecteur global */
+nav {
+    background-color: tomato;
+}
+
+/* Selecteur avec une classe */
+.logo {
+    border: solid 5px blue;
+}
+
+/* Selecteur avec un id */
+#main {
+    background-color: yellow;
+}
+
+/* Selecteur avec lien de parentalité */
+header button {
+    font-size: 30px;
+}
